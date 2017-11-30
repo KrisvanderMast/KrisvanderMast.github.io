@@ -15,7 +15,7 @@ For us it was also a special edition: our fifth already. The agenda this year wa
 
 For the attendees we sent out a survey and first feedback was positive. We already noticed that at least one attendee wrote a [blog post about his experience attending CloudBrew][5]. We as orga for sure already made up a shortlist of what to do better or improve next year but hope to get enough constructive feedback from the audience as well.  
 
-I would like to point out as well that we're looking for speakers for the [local [Global Azure Bootcamp][6] installment in April 2018][7]. I hope to see you there as well.
+I would like to point out as well that we're looking for speakers for the [Global Azure Bootcamp][6] [local installment in April 2018][7]. I hope to see you there as well.
 
 
 
