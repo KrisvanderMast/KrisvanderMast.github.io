@@ -26,7 +26,7 @@ redirect_from:
 
 Thanks for wanting to contact me! Whether you have a question, you would like to hire me for a short-term gig or want me to speak at your conference or user group, I will try and respond to you as soon as possible.
 
-* **Twitter:** [@KvdM](https://twitter.com/KvdM)
+* **Twitter:** [@KrisvanderMast](https://twitter.com/KrisvanderMast)
 * **GitHub:** [krisvandermast](https://github.com/krisvandermast)
 * **StackOverflow Careers Developer CV:** [view my CV](http://stackoverflow.com/cv/krisvandermast)
 * **LinkedIN:** [public profile](http://www.linkedin.com/in/krisvandermast)
