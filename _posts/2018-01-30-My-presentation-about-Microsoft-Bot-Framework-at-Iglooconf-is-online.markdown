@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My presentation about Microsoft Bot Framework at Iglooconf is online"
-date: 2018-01-30 20:13:00 +0100
+date: 2018-01-30 17:13:00 +0100
 comments: true
 published: true
 categories: ["post"]
