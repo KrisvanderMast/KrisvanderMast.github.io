@@ -16,6 +16,8 @@ As you're likely here for the recording of the talk about Microsoft Bot Framewor
 
 A very nice gift provided by the organization was the little book [Finnish nightmares][3] by Karoliina Korhonen. My wife and I both enjoyed reading it and looking up the similarities between the Flemish and Finnish culture.
 
+{% include video id="CRjy1ANbQNM" provider="youtube" %}  
+
 Kris.
 
 [1]:http://www.kompozure.com/home
