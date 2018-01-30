@@ -89,7 +89,7 @@ author:
   linkedin         : "krisvandermast"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : "90011"
   steam            :
   tumblr           :
   twitter          : "KrisvanderMast"
@@ -240,6 +240,7 @@ defaults:
       type: pages
     values:
       layout: single
+      read_time: true
       author_profile: true
       header:
         image: splash/1.png
