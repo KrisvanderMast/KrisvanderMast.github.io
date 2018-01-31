@@ -18,6 +18,7 @@ A very nice gift provided by the organization was the little book [Finnish night
 
 {% include video id="CRjy1ANbQNM" provider="youtube" %}  
 
+
 Kris.
 
 [1]:http://www.kompozure.com/home
