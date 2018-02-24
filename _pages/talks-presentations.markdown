@@ -22,10 +22,14 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 ## Past talks (still need to amend the list)
 
-| **Date**   | **Title**                         | **Event**     | **Where**               | **Slides**                                                                                  | **Recording** |
-|------------|-----------------------------------|---------------|-------------------------|---------------------------------------------------------------------------------------------|---------------|
-| 2018-01-26 | Microsoft Bot Framework                | Iglooconf | Helsinki - Finland |                                                                                             | [Recording](https://www.youtube.com/watch?v=CRjy1ANbQNM)              |
-| 2017-11-18 | Microsoft Bot Framework                | SharePoint Saturday | Lisbon - Portugal |                                                                                             |               |
-| 2017-10-12 | Visual Studio Code                | TechDays 2017 | Amsterdam - Netherlands |                                                                                             | [Recording](https://www.youtube.com/watch?v=VwLrDdEnG2A)              |
-| 2017-09-27 | Azure Functions and the Serverless Architecture                | Basta! 2017 | Mainz - Germany |                                                                                             |               |
-| 2010-05-03 | Being a pimp without Silverlight! | VISUG         | Belgium - Brussels      |  |               |
+| **Date**   | **Title** | **Event**  | **Where** | **Slides** | **Recording** |
+|------------|-----------|------------|-----------|------------|---------------|
+| 2018-02-22 | Build and manage your applications on Azure (repeat) | [Microsoft Tech Summit Frankfurt](https://frankfurt.techsummit.microsoft.com) | Frankfurt - Germany |||
+| 2018-02-21 | Serverless on Azure | [Basta! spring 2018](https://basta.net/microservices-apis/serverless-on-azure/) | Frankfurt- Germany |||
+| 2018-01-26 | Microsoft Bot Framework | Iglooconf | Helsinki - Finland |  | [Recording](https://www.youtube.com/watch?v=CRjy1ANbQNM)              |
+| 2017-11-18 | Microsoft Bot Framework | SharePoint Saturday | Lisbon - Portugal |  |  |
+| 2017-10-12 | Visual Studio Code | TechDays 2017 | Amsterdam - Netherlands | | [Recording](https://www.youtube.com/watch?v=VwLrDdEnG2A)              |
+| 2017-09-27 | Azure Functions and the Serverless Architecture | Basta! 2017 | Mainz - Germany |  |  |
+| 2018-02-23 | Visual Studio Code | [Basta! spring 2017](https://basta.net/net-framework-c/visual-studio-code/) | Frankfurt- Germany |||
+|||||||
+| 2010-05-03 | Being a pimp without Silverlight! | VISUG | Belgium - Brussels |  |  |
