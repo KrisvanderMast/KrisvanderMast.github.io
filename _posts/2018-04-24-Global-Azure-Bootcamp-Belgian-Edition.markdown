@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I went speaking at Azure Day Poland"
+title: "Global Azure Bootcamp Belgian Edition"
 date: 2018-04-24 22:10:00 +0100
 comments: true
 published: true
