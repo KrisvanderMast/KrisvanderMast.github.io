@@ -42,7 +42,7 @@ In the Belgian community Kris is active as a board member of Belgian Azure User 
 
 ## More information
 
-I hold a master degree in electronics (Industrieel ingenieur elektronica met specialisatie in informatie- en communicatietechnieken).
+I hold a Master’s Degree – Industrial Sciences Electronics / ICT (Industrieel ingenieur elektronica met specialisatie in informatie- en communicatietechnieken).
 
 ## Disclaimer
 

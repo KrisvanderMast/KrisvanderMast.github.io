@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I went speaking about Bots at CODECAMP Romania"
-date: 2018-11-11 21:23:00 +0200
+date: 2018-11-11 12:14:00 +0200
 comments: true
 published: true
 categories: ["post"]
