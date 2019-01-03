@@ -36,5 +36,4 @@ console.log(Object.keys(object1));
 ```
 Sample code taken from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys).
 
-
 Kris.
