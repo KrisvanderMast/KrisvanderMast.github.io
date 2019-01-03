@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Object.keys helped me solve a problem"
-date: 2018-11-11 12:14:00 +0200
+date: 2019-01-03 09:12:00 +0200
 comments: true
 published: true
 categories: ["post"]
@@ -15,7 +15,7 @@ There were still some small changes recently that lead to some client templates 
 Turned out that there's a easy way to do it with
 
 ```javascript
-    Object.keys()
+Object.keys()
 ```
 
 So I wrote simply in the template part console.log(Object.keys(dataItem)) and got what I was after in the F12 console log :relaxed:.
