@@ -12,7 +12,7 @@ redirect_from:
 
 This page contains links and short information on the talks that I have (co-)presented. If available, a link to slides and recording is also provided.
 
-Attended a talk and looking for demo material or thought of a question? Don't hesitate and ping me on [Twitter](https://twitter.com/maartenballiauw) or [reach out via another channel](/about-me.html).
+Attended a talk and looking for demo material or thought of a question? Don't hesitate and ping me on [Twitter](https://twitter.com/KrisvanderMast) or [reach out via another channel](/about-me.html).
 
 ## Upcoming talks
 
@@ -27,7 +27,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 | 2018-11-10 | The good, the bad and the unexpected - a BOT story (A talk about the things we encountered and what we did to overcome them while creating succesful bots) | [CODECAMP Romania](https://bucuresti.codecamp.ro/) | Bucharest - Romania |||
 | 2018-03-23 | Bot framework with cognitive services and adaptive cards | [Azure Day Poland](http://azureday.pro/) | Warsaw - Poland |||
 | 2018-02-22 | Build and manage your applications on Azure (repeat) | [Microsoft Tech Summit Frankfurt](https://frankfurt.techsummit.microsoft.com) | Frankfurt - Germany |||
-| 2018-02-21 | Serverless on Azure | [Basta! spring 2018](https://basta.net/microservices-apis/serverless-on-azure/) | Frankfurt- Germany || [Recording(https://www.youtube.com/watch?v=iiQDrGesQw4)] |
+| 2018-02-21 | Serverless on Azure | [Basta! spring 2018](https://basta.net/microservices-apis/serverless-on-azure/) | Frankfurt- Germany || [Recording](https://www.youtube.com/watch?v=iiQDrGesQw4)] |
 | 2018-01-19 | Microsoft Bot Framework | [Iglooconf](http://www.iglooconf.fi/) | Helsinki - Finland |  | [Recording](https://www.youtube.com/watch?v=CRjy1ANbQNM)              |
 | 2017-11-18 | Microsoft Bot Framework | [SharePoint Saturday](http://www.spsevents.org/city/Lisbon/Lisbon2017) | Lisbon - Portugal |  |  |
 | 2017-10-12 | Visual Studio Code | [TechDays NL 2017](https://www.techdays.nl/) | Amsterdam - Netherlands | | [Recording](https://www.youtube.com/watch?v=VwLrDdEnG2A)              |
