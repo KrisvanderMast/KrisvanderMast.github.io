@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Professional Program in Data Science with certification"
+title: "I got renewed as an MVP"
 date: 2017-07-03 20:12:00 +0200
 comments: true
 published: true
