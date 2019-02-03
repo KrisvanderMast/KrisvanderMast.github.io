@@ -24,6 +24,9 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title** | **Event**  | **Where** | **Slides** | **Recording** |
 |------------|-----------|------------|-----------|------------|---------------|
+| 2019-01-31 | BOT architectures | SD Worx Enterprise Architecture trainings | Antwerp, Belgium |||
+| 2019-01-25 | A BOT story with Microsoft technologies | [Azure Low Lands](https://www.azurelowlands.com/) | Rotterdam, The Netherlands |||
+| 2019-01-21 | BOT architectures with Microsoft technologies | SD Worx awareness session | Antwerp, Belgium |||
 | 2018-11-10 | The good, the bad and the unexpected - a BOT story (A talk about the things we encountered and what we did to overcome them while creating succesful bots) | [CODECAMP Romania](https://bucuresti.codecamp.ro/) | Bucharest - Romania |||
 | 2018-03-23 | Bot framework with cognitive services and adaptive cards | [Azure Day Poland](http://azureday.pro/) | Warsaw - Poland |||
 | 2018-02-22 | Build and manage your applications on Azure (repeat) | [Microsoft Tech Summit Frankfurt](https://frankfurt.techsummit.microsoft.com) | Frankfurt - Germany |||
