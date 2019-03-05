@@ -233,7 +233,7 @@ defaults:
       share: true
       related: true
       header:
-        image: splash/1.png
+        image: splash/coast.png
   # _pages
   - scope:
       path: ""
@@ -242,4 +242,4 @@ defaults:
       layout: single
       author_profile: true
       header:
-        image: splash/1.png
+        image: splash/coast.png
