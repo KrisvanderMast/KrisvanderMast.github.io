@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free book a developers guide to building AI applications"
-date: 2019-02-26 07:48:00 +0200
+date: 2019-03-05 09:37:00 +0200
 comments: true
 published: true
 categories: ["post"]
