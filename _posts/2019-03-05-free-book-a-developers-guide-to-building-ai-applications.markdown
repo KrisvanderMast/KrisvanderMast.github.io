@@ -8,7 +8,7 @@ categories: ["post"]
 tags: ["AI", "book", "chatbot"]
 author: Kris van der Mast
 ---
-I noticed that Microsoft hands out a free ebook about AI and chatbots. It's an easy read of about 50 pages. 
+I noticed that Microsoft hands out a free ebook about AI and chatbots. It's an easy read of about 50 pages.
 
 ![AI book](/images/ai-book.png)
 
