@@ -5,7 +5,7 @@ date: 2019-02-26 07:48:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: ["Visual Studio", "C#"]
+tags: ["Visual Studio", "C"]
 author: Kris van der Mast
 ---
 The C# team brings out new features in small releases like C# 7.1, 7.2 or 7.3 for example. Now you might notice that when you create a new project that not all of these little additions to the language appear, just like they're not there on your machine yet even though you're 200% sure you got them.  
