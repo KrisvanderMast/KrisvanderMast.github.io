@@ -99,7 +99,8 @@ VALUES (N'20190308092538_InitialCreate', N'2.2.2-servicing-10034');
 GO
 ```
 
-When using
+When using  
+
 > Script-Migration -Idempotent
 
 The output becomes:

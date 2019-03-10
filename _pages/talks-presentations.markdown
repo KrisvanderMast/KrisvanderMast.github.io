@@ -16,7 +16,11 @@ Attended a talk and looking for demo material or thought of a question? Don't he
 
 ## Upcoming talks
 
-* 
+| **Date**   | **Title** | **Event**  | **Where** | **Slides** | **Recording** |
+|------------|-----------|------------|-----------|------------|---------------|
+| 2019-03-29 | A revisit to the Azure App Services | Azure Day Poland | Warsah, Poland |||
+| 2019-05017 | The good, the bad and the unexpected, a BOT story | Azure Saturday | Munich, Germany |||
+| 2019-05-22 | A revisit to the Azure App Services | Techorama | Antwerp, Belgium |||
 
 If you want me to deliver a talk at your user group or conference, feel free to [reach out](/about-me.html). I'll be happy to provide you with session proposals.
 
