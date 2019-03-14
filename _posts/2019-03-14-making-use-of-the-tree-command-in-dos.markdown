@@ -28,4 +28,20 @@ This would generate the following for the same subfolder as above:
 
 ![Tree /f command](/images/tree-f.png)
 
+Now if you want to save this to a file for later use, or to search for something specific you can do that via the following command:
+
+> tree /f > treedata.txt
+
+With as output:
+
+![Tree /f command and save to treedata.txt file](/images/tree-f-file.png)
+
+That looks rather odd so if you want to beautify that you can also add the /a parameter like:
+
+> tree /f /a > treedata.txt
+
+And now it becomes
+
+![Tree /f /a command and save to treedata.txt file](/images/tree-f-a-file.png)]
+
 Kris.
