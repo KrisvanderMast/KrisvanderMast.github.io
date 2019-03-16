@@ -42,6 +42,6 @@ That looks rather odd so if you want to beautify that you can also add the /a pa
 
 And now it becomes
 
-![Tree /f /a command and save to treedata.txt file](/images/tree-f-a-file.png)]
+![Tree /f /a command and save to treedata.txt file](/images/tree-f-a-file.png)
 
 Kris.
