@@ -8,7 +8,7 @@ categories: ["post"]
 tags: ["cmd", "dos", "tree"]
 author: Kris van der Mast
 ---
-A couple of weeks ago I was playing around with [NServicebus]() on localhost. The nice thing about it is that it'll make use of files in different subfolders if the handling part was turned down so it couldn't receive the messages.
+A couple of weeks ago I was playing around with [NServicebus](https://particular.net/nservicebus) on localhost. The nice thing about it is that it'll make use of files in different subfolders if the handling part was turned down so it couldn't receive the messages.
 
 To quickly see what remained in which subfolder I found it easy to make use of the __tree__ command from the good old DOS days. It seems quite some people either forgot or didn't even know about this particular command in the first place hence why I'm creating a blog post about it.
 
