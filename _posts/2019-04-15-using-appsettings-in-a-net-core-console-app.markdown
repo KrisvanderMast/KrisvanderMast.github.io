@@ -44,4 +44,6 @@ You'll also need to install the following Nuget packages for the `ConfigurationB
 > Install-Package Microsoft.Extensions.Configuration.FileExtensions  
 > Install-Package Microsoft.Extensions.Configuration.Json
 
+Note: an important thing to keep in mind is to go to the properties of the _appsettings.json_ file and set the _Copy to output directory_ to _Copy if newer_ or _Copy always_ as otherwise the file itself doesn't get copied to the folder where the executable is being run and it'll provide you with exceptions.
+
 Kris.
