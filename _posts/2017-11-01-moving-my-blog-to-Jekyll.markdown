@@ -21,5 +21,5 @@ So yes [www.krisvandermast.com][7] has moved mostly to [Jekyll][3] and after sta
 [4]: https://blog.maartenballiauw.be
 [5]: http://www.azug.be
 [6]: http://www.cloudbrew.be
-[7]: http://www.krisvandermast.com
+[7]: https://www.krisvandermast.com
 [8]: https://forums.asp.net/

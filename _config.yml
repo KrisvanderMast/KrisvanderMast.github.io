@@ -11,7 +11,7 @@ title                    : "Kris van der Mast"
 title_separator          : "-"
 name                     : "Kris van der Mast"
 description              : "Web development, Microsoft Azure, ASP.NET MVC, chatbots, ..."
-url                      : "http://www.krisvandermast.com"
+url                      : "https://www.krisvandermast.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -71,7 +71,7 @@ google_ad_slot           :
 author:
   name             : "Kris van der Mast"
   avatar           : "bio-photo.png"
-  bio              : "Loves ASP.NET MVC, C#, Microsoft Azure and technology in general. Founded <a href=\"http://www.vaha.be\">VaHa bvba</a>. Microsoft Azure MVP, Azure Advisor, aOS ambassador. Frequent speaker at and organizer of various national and international events."
+  bio              : "Loves technology, mainly focussed on Microsoft tech. Founded <a href=\"http://www.vaha.be\">VaHa bvba</a>. Microsoft Azure MVP, Azure Advisor, aOS ambassador. Frequent speaker at and organizer of various national and international events."
   location         : "Mechelen, Belgium"
   email            :
   uri              :

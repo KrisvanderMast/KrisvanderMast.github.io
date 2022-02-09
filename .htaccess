@@ -1,5 +1,5 @@
 RewriteEngine on
-RewriteRule ^["http://blog.krisvandermast.com/IGotRenewedAsAnMVP.aspx"] http://www.krisvandermast.com/post/
+RewriteRule ^["http://blog.krisvandermast.com/IGotRenewedAsAnMVP.aspx"] https://www.krisvandermast.com/post/
 
 RewriteRule ^/Syndication.axd$ /feed.xml [R=301,NC]
 RewriteRule ^["/post/2015/12/23/disabling-session-affinity-in-azure-app-service-web-apps-websites.aspx"]$ /post/2015/12/23/disabling-session-affinity-in-azure-app-service-web-apps-websites.html [R=301,NC]
