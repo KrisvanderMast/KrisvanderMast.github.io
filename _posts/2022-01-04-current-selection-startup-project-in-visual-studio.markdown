@@ -25,6 +25,6 @@ When I have a file open in Console02 in my solution then by using the above ment
 
 ![Current selection is set to Console02](/images/visual-studio-current-selection-startup-project-console02-selected.png)
 
-Something that happens to me from time to time is that when I'm so focussed on the code and `F12` my way into code which is in a class library that project then gets the focus and as you can guess: it just became the startup project. And no, that won't start :bowtie:.
+Something that happens to me from time to time is that when I'm so focussed on the code and `F12` my way into code which is in a class library, that project then gets the focus and as you can guess: it just became the startup project. And no, that won't start :bowtie:.
 
 I noticed that this _tip_ wasn't as widespread as I thought it would be so here you go dear reader. Enjoy!
