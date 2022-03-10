@@ -100,7 +100,7 @@ author: Kris van der Mast
 ---
 ```
 
-If you want to reuse this Python script by all means do. I placed it under the root of my [Github pages][1] [Krisvandermast.github.io][4] repo. I'll make a separate repo in the coming days for these kinds of scripts.
+If you want to reuse this Python script by all means do so. I placed it under the root of my [Github pages][1] [Krisvandermast.github.io][4] repo to keep it close to my site's source code. I'll make a separate repo in the coming days for these kinds of scripts.
 
 [1]: https://pages.github.com/
 [2]: https://jekyllrb.com/
