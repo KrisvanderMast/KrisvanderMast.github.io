@@ -5,7 +5,7 @@ date: 2022-03-23 09:52:11 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: ["dotnet,",".NET,","SqlBulkCopy,","EF","Core,","Entity","Framework"]
+tags: ["dotnet",".NET","SqlBulkCopy","EF Core,","Entity Framework"]
 author: Kris van der Mast
 ---
 Recently I was in a situation where I had to quickly inject loads of data into a [SQL database][1]. The basic setup of the application:
