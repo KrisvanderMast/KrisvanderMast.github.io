@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20 years of dotnet
-date: 2022-02-13 20:10:50 +0200
+date: 2022-02-14 20:10:50 +0200
 comments: true
 published: true
 categories: ["post"]
