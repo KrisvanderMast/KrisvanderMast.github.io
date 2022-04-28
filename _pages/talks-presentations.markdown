@@ -28,6 +28,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
+| 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania         |            |                 |
 | 2022-02-23 | Python for .NET Developers                                    | [Basta.net][1]                            | Frankfurt, Germany         |            |                 |
 | 2022-02-23 | Use Visual Studio Code for Your Machine Learning Environments | [Basta.net][15]                           | Frankfurt, Germany         |            |                 |
 | 2019-03-29 | A revisit to the Azure App Services                           | Azure Day Poland                          | Warsaw, Poland             |            |                 |
@@ -68,3 +69,4 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 [16]: http://tugait.pt/2017/schedule-overview/
 [17]: http://tugait.pt/2017/schedule-overview/
 [18]: https://www.meetup.com/Brussels-chatbot-Meetup/events/238677762/
+[19]: https://devdays.lt/
