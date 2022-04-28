@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delivered a presentation at Devday Europ 2022
+title: Delivered a presentation at Devday Europe 2022
 date: 2022-04-27 07:52:20 +0200
 comments: true
 published: true
