@@ -12,5 +12,8 @@ Today I had the opportunity to speak at [Devdays Europe 2022][1]. Normally it wo
 
 The presentation itself was about __The things you don't want to write: documentation__. I made this presentation based on my 20+ years of experience in the field and what I notice(d) when entering new teams or starting up teams myself. The focus of the session is on what I usually see and how I introduced a newer/easier/... way of keeping documentation along the volatile life of a project in an agile world. Not only for developers but also how to integrate people from business as well (everyone knows parts and everyone can contribute). If you want me to provide the session at your conference as well you can [reach out to me][2].
 
+Also be sure to check out my page with other [presentations I'm going to give or gave][3].
+
 [1]: https://devdays.lt/
-[2]: https://www.krisvandermast.com/about-me.html
+[2]: /about-me.html
+[3]: /talks-presentations.html
