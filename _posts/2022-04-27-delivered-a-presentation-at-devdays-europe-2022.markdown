@@ -5,7 +5,7 @@ date: 2022-04-27 07:52:20 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: ["azure devops","markdown","mermaid","documentation","mvpbuzz"]
+tags: ["azure devops","markdown","mermaid","documentation","mvpbuzz","public speaking", "presentation"]
 author: Kris van der Mast
 ---
 Today I had the opportunity to speak at [Devdays Europe 2022][1]. Normally it would've been in Vilnius, a city I only visited once before and liked a lot, but due to global circumstances it became an online event. As always the organization approaches it in a very professional manner and all went smooth. I was assigned a very helpful moderator who passed the questions from the audience asked in a chat window. There were a lot of questions from the audience which was awesome. Normally one doesn't see that in online sessions. There were more than 100 attendees during the session which was also more than I expected provided that my session was in parallel with 5 other tracks.
