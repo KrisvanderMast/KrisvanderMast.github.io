@@ -17,5 +17,5 @@ Hope to see you soon at another conference! Take care, Kris.
 [1]: https://powervirtualagents.microsoft.com/en-us/  
 [2]: https://amsberlin.eu/
 [3]: https://adaptivecards.io/
-[4]: ../images/KrisvanderMast_aMS_Berlin_2022_Phone.JPG
-[5]: ../images/KrisvanderMast_aMS_Berlin_2022.JPG
+[4]: /images/KrisvanderMast_aMS_Berlin_2022_Phone.JPG
+[5]: /images/KrisvanderMast_aMS_Berlin_2022.JPG  
