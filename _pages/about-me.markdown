@@ -14,7 +14,7 @@ redirect_from:
 <a href="/images/bio-photo.png"><img width="200" height="200" title="kris-400x400" align="right" style="border: 0px currentColor; border-image: none; padding-top: 0px; padding-right: 0px; padding-left: 0px; float: right; display: inline; background-image: none;" alt="kris-400x400" src="/images/bio-photo.png" border="0"></a>
  
 * **Name:** Kris van der Mast  
-* **Age:** 46  
+* **Age:** 47  
 * **Gender:** male  
 * **Occupation:**
 	* Owner of [VaHa](http://www.vaha.be)
