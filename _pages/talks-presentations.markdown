@@ -28,6 +28,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
+| 2022-06-23 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][21]             | Leuven, Belgium            |            |                 |
 | 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany            |            |                 |
 | 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania         |            |                 |
 | 2022-02-23 | Python for .NET Developers                                    | [Basta.net][1]                            | Frankfurt, Germany         |            |                 |
@@ -72,3 +73,4 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 [18]: https://www.meetup.com/Brussels-chatbot-Meetup/events/238677762/
 [19]: https://devdays.lt/
 [20]: https://amsberlin.eu/
+[21]: https://www.poweraddicts.be/belgian-poweraddicts-in-leuven/
