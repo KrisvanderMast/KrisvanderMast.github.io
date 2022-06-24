@@ -26,5 +26,5 @@ Tomorrow I'll be presenting at aMS Delhi 2022 edition. See you there!
 [2]: https://powervirtualagents.microsoft.com/en-us/
 [4]: /images/Kris_van_der_Mast_poweraddicts_presentation_Phone.jpg
 [5]: /images/Kris_van_der_Mast_poweraddicts_presentation.jpg
-[6]: /images/Kris_van_der_Mast_poweraddicts_presentation_Phone.jpg
+[6]: /images/Kris_van_der_Mast_poweraddicts_presentation2_Phone.jpg
 [7]: /images/Kris_van_der_Mast_poweraddicts_presentation2.jpg
