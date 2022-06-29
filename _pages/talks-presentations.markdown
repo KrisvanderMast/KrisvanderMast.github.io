@@ -28,9 +28,10 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
+| 2022-06-25 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][22]             | Delhi, India (online)      |            |                 |
 | 2022-06-23 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][21]             | Leuven, Belgium            |            |                 |
-| 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany            |            |                 |
-| 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania         |            |                 |
+| 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany (online)   |            |                 |
+| 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania (online)|            |                 |
 | 2022-02-23 | Python for .NET Developers                                    | [Basta.net][1]                            | Frankfurt, Germany         |            |                 |
 | 2022-02-23 | Use Visual Studio Code for Your Machine Learning Environments | [Basta.net][15]                           | Frankfurt, Germany         |            |                 |
 | 2019-03-29 | A revisit to the Azure App Services                           | Azure Day Poland                          | Warsaw, Poland             |            |                 |
@@ -74,3 +75,4 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 [19]: https://devdays.lt/
 [20]: https://amsberlin.eu/
 [21]: https://www.poweraddicts.be/belgian-poweraddicts-in-leuven/
+[22]: https://ams-delhi-2022.sessionize.com/
