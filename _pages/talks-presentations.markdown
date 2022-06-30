@@ -28,7 +28,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
-| 2022-06-25 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][22]             | Delhi, India (online)      |            |                 |
+| 2022-06-25 | Power to the Virtual Agents                                   | [aMS Delhi 2022][22]                      | Delhi, India (online)      |            |                 |
 | 2022-06-23 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][21]             | Leuven, Belgium            |            |                 |
 | 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany (online)   |            |                 |
 | 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania (online)|            |                 |
