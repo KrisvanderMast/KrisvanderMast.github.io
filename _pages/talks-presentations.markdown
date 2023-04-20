@@ -28,6 +28,10 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
+| 2023-03-04 | Python for beginners                                          | [Basta!][25]                              | Mechelen, Belgium          |            |                 |
+| 2023-02-25 | Power to the Virtual Agents                                   | [Global Power Platform Bootcamp][24]      | Ghent, Belgium             |            |                 |
+| 2022-10-11 | The things you don't want to write: documentation             | [Basta!][23]                              | Mainz, Germany             |            |                 |
+| 2022-10-11 | Python for beginners                                          | [Basta!][23]                              | Mainz, Germany             |            |                 |
 | 2022-06-25 | Power to the Virtual Agents                                   | [aMS Delhi 2022][22]                      | Delhi, India (online)      |            |                 |
 | 2022-06-23 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][21]             | Leuven, Belgium            |            |                 |
 | 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany (online)   |            |                 |
@@ -38,7 +42,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 | 2019-01-31 | BOT architectures                                             | SD Worx Enterprise Architecture trainings | Antwerp, Belgium           |            |                 |
 | 2019-01-25 | A BOT story with Microsoft technologies                       | [Azure Low Lands][2]                      | Rotterdam, The Netherlands |            |                 |
 | 2019-01-21 | BOT architectures with Microsoft technologies                 | SD Worx awareness session                 | Antwerp, Belgium           |            |                 |
-| 2018-11-10 | The good, the bad and the unexpected - a BOT story (A talk about the things we encountered and what we did to overcome them while creating succesful bots)           | [CODECAMP Romania][3]                     | Bucharest - Romania        |            |                 |
+| 2018-11-10 | The good, the bad and the unexpected - a BOT story            | [CODECAMP Romania][3]                     | Bucharest - Romania        |            |                 |
 | 2018-03-23 | Bot framework with cognitive services and adaptive cards      | [Azure Day Poland][4]                     | Warsaw - Poland            |            |                 |
 | 2018-02-22 | Build and manage your applications on Azure (repeat)          | [Microsoft Tech Summit Frankfurt][5]      | Frankfurt - Germany        |            |                 |
 | 2018-02-21 | Serverless on Azure                                           | [Basta! spring 2018][6]                   | Frankfurt- Germany         |            | [Recording][7]  |
@@ -76,3 +80,6 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 [20]: https://amsberlin.eu/
 [21]: https://www.poweraddicts.be/belgian-poweraddicts-in-leuven/
 [22]: https://ams-delhi-2022.sessionize.com/
+[23]: https://basta.net/speaker/kris-van-der-mast/
+[24]: https://www.poweraddicts.be/global-power-platform-bootcamp-2023-belgium-edition-feeling-inspired-and-with-a-baggage-of-new-knowledge-back-home/
+[25]: https://www.meetup.com/global-ai-channel/events/290917551/
