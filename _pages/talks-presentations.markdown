@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talks & Presentations"
-date: 2017-11-05 01:36:00 +0200
+date: 2023-04-21 01:36:00 +0200
 comments: false
 author: Kris van der Mast
 sitemap: false
@@ -15,26 +15,21 @@ This page contains links and short information on the talks that I have presente
 
 Attended a talk and looking for demo material or thought of a question? Don't hesitate and ping me on [Twitter](https://twitter.com/KrisvanderMast) or [reach out via another channel](/about-me.html).
 
-## Upcoming talks
-
-| **Date**   | **Title**                                         | **Event**      | **Where**        | **Slides** | **Recording** |
-|------------|---------------------------------------------------|----------------|------------------|------------|---------------|
-| 2019-05-17 | The good, the bad and the unexpected, a BOT story | Azure Saturday | Munich, Germany  |            |               |
-| 2019-05-22 | A revisit to the Azure App Services               | Techorama      | Antwerp, Belgium |            |               |
-
 If you want me to deliver a talk at your user group or conference, feel free to [reach out](/about-me.html). I'll be happy to provide you with session proposals.
 
-## Past talks (still need to amend the list)
+## Past talks (Need to update it with past talks)
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
-| 2023-03-04 | Python for beginners                                          | [Basta!][25]                              | Mechelen, Belgium          |            |                 |
+| 2023-03-04 | Python for beginners                                          | [Global AI bootcamp - Belgium!][25]       | Mechelen, Belgium          |            |                 |
 | 2023-02-25 | Power to the Virtual Agents                                   | [Global Power Platform Bootcamp][24]      | Ghent, Belgium             |            |                 |
 | 2022-10-11 | The things you don't want to write: documentation             | [Basta!][23]                              | Mainz, Germany             |            |                 |
 | 2022-10-11 | Python for beginners                                          | [Basta!][23]                              | Mainz, Germany             |            |                 |
 | 2022-06-25 | Power to the Virtual Agents                                   | [aMS Delhi 2022][22]                      | Delhi, India (online)      |            |                 |
 | 2022-06-23 | Power to the Virtual Agents                                   | [poweraddicts powertalk!][21]             | Leuven, Belgium            |            |                 |
+| 2019-05-22 | A revisit to the Azure App Services                           | Techorama                                 | Antwerp, Belgium           |            |                 |
 | 2022-05-19 | Power to the Virtual Agents                                   | [aMS Berlin 2022][20]                     | Berlin, Germany (online)   |            |                 |
+| 2019-05-17 | The good, the bad and the unexpected, a BOT story             | Azure Saturday                            | Munich, Germany            |            |                 |
 | 2022-04-27 | The things you don't want to write: documentation             | [DevDays Europe][19]                      | Vilnius, Lithuania (online)|            |                 |
 | 2022-02-23 | Python for .NET Developers                                    | [Basta.net][1]                            | Frankfurt, Germany         |            |                 |
 | 2022-02-23 | Use Visual Studio Code for Your Machine Learning Environments | [Basta.net][15]                           | Frankfurt, Germany         |            |                 |
