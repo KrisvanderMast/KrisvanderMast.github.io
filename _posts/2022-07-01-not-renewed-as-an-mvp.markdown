@@ -19,3 +19,7 @@ Covid-19, less virtual [azug](https://www.azug.be/) events and besides my day to
 From the feedback provided by Microsoft it was this time rather difficult to put me into one of the MVP categories as I've been active in so many different areas: Power Virtual Agents, Azure, .NET development, Python development, helping out a PhD researcher with learning out to program in Python and Pytorch, ...
 
 Either way, I'm sure after a couple of days I'll be back to my usual self and I'll be back to being active in the community. I'm already busy with the preparations of our next big event [CloudBrew 2022](https://www.cloudbrew.be/2022/). It's going to be a great event, so make sure to register for it. See you there!
+
+I could really use a coffee right now...
+
+<a href="https://www.buymeacoffee.com/KrisvanderMast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
