@@ -21,6 +21,7 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 
 | **Date**   | **Title**                                                     | **Event**                                 | **Where**                  | **Slides** | **Recording**   |
 |------------|---------------------------------------------------------------|-------------------------------------------|----------------------------|------------|-----------------|
+| 2023-05-10 | The stuff you don't want to write: documentation              | [Team4Talent .NET event][26]              | Breda, Netherlands         |            |                 |
 | 2023-03-04 | Python for beginners                                          | [Global AI bootcamp - Belgium!][25]       | Mechelen, Belgium          |            |                 |
 | 2023-02-25 | Power to the Virtual Agents                                   | [Global Power Platform Bootcamp][24]      | Ghent, Belgium             |            |                 |
 | 2022-10-11 | The things you don't want to write: documentation             | [Basta!][23]                              | Mainz, Germany             |            |                 |
@@ -78,3 +79,4 @@ If you want me to deliver a talk at your user group or conference, feel free to 
 [23]: https://basta.net/speaker/kris-van-der-mast/
 [24]: https://www.poweraddicts.be/global-power-platform-bootcamp-2023-belgium-edition-feeling-inspired-and-with-a-baggage-of-new-knowledge-back-home/
 [25]: https://www.meetup.com/global-ai-channel/events/290917551/
+[26]: https://team4talent.be/nl/team4talent-dotnetevent/
