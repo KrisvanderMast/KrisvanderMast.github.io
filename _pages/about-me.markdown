@@ -14,7 +14,7 @@ redirect_from:
 <a href="/images/bio-photo.png"><img width="200" height="200" title="kris-400x400" align="right" style="border: 0px currentColor; border-image: none; padding-top: 0px; padding-right: 0px; padding-left: 0px; float: right; display: inline; background-image: none;" alt="kris-400x400" src="/images/bio-photo.png" border="0"></a>
  
 * **Name:** Kris van der Mast  
-* **Age:** 47  
+* **Age:** 48  
 * **Gender:** male  
 * **Occupation:**
 	* Owner of [VaHa](http://www.vaha.be)
@@ -34,15 +34,16 @@ Thanks for wanting to contact me! Whether you have a question, you would like to
 
 ## Bio
 
-As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he is a Microsoft MVP since 2007. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a [Microsoft ASP Insider](http://aspinsiders.com/), Microsoft Azure Advisor, [aOS ambassador](http://aos.community/index.php/language/en/home/) and a Belgian Microsoft Extended Experts Team (MEET) member.  
+As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he was a Microsoft MVP between April 2007 and July 2022. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a [Microsoft ASP Insider](http://aspinsiders.com/), Microsoft Azure Advisor, [aOS ambassador](http://aos.community/index.php/language/en/home/) and a Belgian Microsoft Extended Experts Team (MEET) member.  
 
-In the Belgian community Kris is active as a board member of Belgian Azure User Group AZUG and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he’s also been active on the ASP.NET forums where is also a moderator. For his professional profile you can check out his LinkedIn. His personal site can be found at www.krisvandermast.com. Kris is a public (inter)national speaker and is a co-organizer of the CloudBrew conference.
+In the Belgian community Kris is active as a board member of Belgian Azure User Group AZUG and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he’s also been active on the ASP.NET forums where is also a moderator. For his professional profile you can check out his LinkedIn. His personal site can be found at www.krisvandermast.com. Kris is a public (inter)national speaker and is a lead co-organizer of the [CloudBrew conference](https://www.cloudbrew.be).
 
 * Previous and upcoming talks and presentations can be found at [full list of talks](/talks-presentations.html).
 
 ## More information
 
-I hold a Master’s Degree – Industrial Sciences Electronics / ICT (Industrieel ingenieur elektronica met specialisatie in informatie- en communicatietechnieken).
+I hold a Master’s Degree – Industrial Sciences Electronics / ICT (Industrieel ingenieur elektronica met specialisatie in informatie- en communicatietechnieken).  
+In 2022 I graduated at the University of Leuven (KUL) with a post graduate Big data and AI.
 
 ## Disclaimer
 
