@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Learn AI Skills Challengen
+title: Microsoft Learn AI Skills Challenge
 date: 2023-07-13 17:01:39 +0200
 comments: true
 published: true
