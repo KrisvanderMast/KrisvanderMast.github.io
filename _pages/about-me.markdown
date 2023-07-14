@@ -34,7 +34,7 @@ Thanks for wanting to contact me! Whether you have a question, you would like to
 
 ## Bio
 
-As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he was a Microsoft MVP between April 2007 and July 2022. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. Kris is also a [Microsoft ASP Insider](http://aspinsiders.com/), Microsoft Azure Advisor, [aOS ambassador](http://aos.community/index.php/language/en/home/) and a Belgian Microsoft Extended Experts Team (MEET) member.  
+As a freelance Microsoft technologies expert Kris helps his clients to reach their goals. Actively involved in the global community he was a Microsoft MVP between April 2007 and July 2022. First for ASP.NET and since 2016 achieving in 2 disciplines: Azure and Visual Studio and Development Technologies. After a 1 year hiatus Kris became again an MVP for Developer Technologies. Kris is also a [Microsoft ASP Insider](http://aspinsiders.com/), Microsoft Azure Advisor, [aOS ambassador](http://aos.community/index.php/language/en/home/) and a Belgian Microsoft Extended Experts Team (MEET) member.  
 
 In the Belgian community Kris is active as a board member of Belgian Azure User Group AZUG and is chairman of the Belgian User Group Initiative (BUG). Since he started with .NET back in 2002 he’s also been active on the ASP.NET forums where is also a moderator. For his professional profile you can check out his LinkedIn. His personal site can be found at www.krisvandermast.com. Kris is a public (inter)national speaker and is a lead co-organizer of the [CloudBrew conference](https://www.cloudbrew.be).
 

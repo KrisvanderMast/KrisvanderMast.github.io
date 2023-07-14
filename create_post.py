@@ -12,7 +12,9 @@ def format_filename(date, title):
     return f'{date}-{title.replace(" ", "-").lower()}.markdown'
 
 def write_frontmatter(args, current_time):
-    f = open(f"./_posts/{format_filename(args.date, args.title)}", "w")
+    folder = "_drafts" if args.draft else "_posts"
+
+    f = open(f"./{folder}/{format_filename(args.date, args.title)}", "w")
     f.write("---\n")
     f.write("layout: post\n")
     f.write(f"title: {args.title}\n")
@@ -31,6 +33,7 @@ if __name__ == "__main__":
     parser.add_argument("title", type=str, help="Provide a title")
     parser.add_argument("tags", type=str, help="Provide a comma separated list of tags")
     parser.add_argument("--author", type=str, help="Provide a name for the author of the post", default="Kris van der Mast")
+    parser.add_argument("--draft", type=bool, help="Create a draft post", default=False)
     args = parser.parse_args()
 
     now = datetime.now()
