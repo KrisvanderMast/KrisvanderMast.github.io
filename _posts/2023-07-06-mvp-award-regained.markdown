@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MVP award regainedn
+title: MVP award regained
 date: 2023-07-06 22:33:42 +0200
 comments: true
 published: true
