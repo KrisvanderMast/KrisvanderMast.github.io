@@ -14,7 +14,11 @@ I decided to follow the AI Builder challenge as I've never worked with AI Builde
 
 You can see my achievements on my [Microsoft Learn profile][2].  
 
-![AI Skills challenge certification](/images/AI_Skills_Challenge_badge.png)
+![AI Skills challenge certification](/images/AI_Skills_Challenge_badge.png)  
+
+And the certificate:  
+
+![AI Skills challenge certificate](/images/AI_skills_certificate.png)
 
 [1]: /post/2023/07/13/microsoft-learn-ai-skills-challenge.html
 [2]: https://learn.microsoft.com/en-us/users/krisvandermast-4209/achievements
