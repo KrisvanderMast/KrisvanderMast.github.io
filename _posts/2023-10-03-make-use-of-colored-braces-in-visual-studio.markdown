@@ -14,17 +14,17 @@ It seems many people liked the extension so Microsoft decided a while ago to int
 
 You can either enable it by going to `Tools` > `Options` > `Environment` > `Text Editor` and then select `Enable brace pair colorization`. Another way to get to it is by using the keyboard combination <kbd>ctrl</kbd> + <kbd>q</kbd> and then type `brace pair colorization`. It will land you on the same option:  
 
-![Enable brace pair colorization](../images/enable_brace_pair_colorization.png)
+![Enable brace pair colorization](/images/enable_brace_pair_colorization.png)
 
 Of course you want to see some results so here is a screenshot of the same code with and without brace pair colorization:
 
 Without brace pair colorization:
 
-![without brace pair colorization](../images/colored_braces_disabled.png)
+![without brace pair colorization](/images/colored_braces_disabled.png)
 
 With brace pair colorization:
 
-![with brace pair colorization](../images/colored_braces_enabled.png)
+![with brace pair colorization](/images/colored_braces_enabled.png)
 
 Personally I like the colored braces. It makes it easier to see where a block starts and ends.
 
