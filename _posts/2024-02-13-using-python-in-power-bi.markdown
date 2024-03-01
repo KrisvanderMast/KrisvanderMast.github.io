@@ -24,25 +24,6 @@ Then provide some snippet of Python code and click `OK`.
 
 I used the following sample code based on Lorem Ipsum text:
 
-```python
-import pandas as pd
-
-data = [
-    ['Lorem', 'ipsum', 'dolor', 'sit', 'amet'],
-    ['consectetur', 'adipiscing', 'elit', 'sed', 'do'],
-    ['eiusmod', 'tempor', 'incididunt', 'ut', 'labore'],
-    ['et', 'dolore', 'magna', 'aliqua', 'Ut'],
-    ['enim', 'ad', 'minim', 'veniam', 'quis'],
-    ['nostrud', 'exercitation', 'ullamco', 'laboris', 'nisi'],
-    ['ut', 'aliquip', 'ex', 'ea', 'commodo'],
-    ['consequat', 'Duis', 'aute', 'irure', 'dolor'],
-    ['in', 'reprehenderit', 'in', 'voluptate', 'velit'],
-    ['esse', 'cillum', 'dolore', 'eu', 'fugiat']
-]
-
-df = pd.DataFrame(data, columns=['Column 1', 'Column 2', 'Column 3', 'Column 4', 'Column 5'])  
-```
-
 ![][4]
 
 Press OK and the navigator will appear. Here you can select the data you want to import.
