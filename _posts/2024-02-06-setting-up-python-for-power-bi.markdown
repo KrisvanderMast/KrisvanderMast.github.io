@@ -30,6 +30,6 @@ To use the virtual environment in Power BI, you need to set the path to the virt
 
 Now you can use the virtual environment in Power BI. In the next post, I will show you [how to use Python in Power BI][3].
 
-[1]: https://www.krisvandermast.com/posts/2024/01/23/setting-up-a-virtual-environment-for-python
+[1]: https://www.krisvandermast.com/post/2024/01/23/setting-up-a-virtual-environment-in-python
 [2]: https://www.python.org/downloads/
 [3]: https://www.krisvandermast.com/posts/2024/02/13/using-python-in-power-bi
