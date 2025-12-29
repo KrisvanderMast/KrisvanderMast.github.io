@@ -14,7 +14,7 @@ redirect_from:
 <a href="/images/bio-photo.png"><img width="200" height="200" title="kris-400x400" align="right" style="border: 0px currentColor; border-image: none; padding-top: 0px; padding-right: 0px; padding-left: 0px; float: right; display: inline; background-image: none;" alt="kris-400x400" src="/images/bio-photo.png" border="0"></a>
  
 * **Name:** Kris van der Mast  
-* **Age:** 48  
+* **Age:** 50  
 * **Gender:** male  
 * **Occupation:**
 	* Owner of [VaHa](http://www.vaha.be)
@@ -28,7 +28,6 @@ Thanks for wanting to contact me! Whether you have a question, you would like to
 
 * **Twitter:** [@KrisvanderMast](https://twitter.com/KrisvanderMast)
 * **GitHub:** [krisvandermast](https://github.com/krisvandermast)
-* **StackOverflow Careers Developer CV:** [view my CV](http://stackoverflow.com/cv/krisvandermast)
 * **LinkedIN:** [public profile](http://www.linkedin.com/in/krisvandermast)
 * **About me:** [about.me profile](http://about.me/krisvandermast)
 
